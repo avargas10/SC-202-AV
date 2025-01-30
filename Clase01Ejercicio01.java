@@ -15,7 +15,7 @@ public class Clase01Ejercicio01 {
     public static void main(String[] args) {
         // Ejercicio 1: Suma y promedio de cuatro números con valores asignados
         // Paso 1: Declarar las variables y asignar valores
-        int num1 = 10; // Primer número
+        int num1 = 20; // Primer número
         int num2 = 20; // Segundo número
         int num3 = 30; // Tercer número
         int num4 = 40; // Cuarto número
